@@ -4,10 +4,12 @@ Sou apaixonado por tecnologia, solucionando problemas através do código e semp
 Gosto muito de Programação princípalmente de baixo nível, pois sempre busco saber o que há debaixo do capo.
 
 
-## 🌐 Conecte-se Comigo
 
-<p align="left">
-  <a href="mailto:gabrielgts.tomaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+<p>
+  <img src="https://img.shields.io/mastodon/follow/116270727111173160">
+  </img>
   </a>
 </p>
+
+
