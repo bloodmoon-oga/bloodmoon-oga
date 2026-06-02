@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Tomaz! 👋
 
-Sou apaixonado por tecnologia, solucionando problemas através do código e sempre buscando aprender coisas novas. Atualmente estou focado em CyberSecurity que é minha paixão desde criança.
+Sou apaixonado por tecnologia, solucionando problemas através do código e sempre buscando aprender coisas novas. Atualmente estou focado em <strong style="color:#00ff00">CyberSecurity</strong> que é minha paixão desde criança.
 Gosto muito de Programação princípalmente de baixo nível, pois sempre busco saber o que há debaixo do capo.
 
 
