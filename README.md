@@ -28,8 +28,8 @@ Sou apaixonado por tecnologia, solucionando problemas através do código e semp
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=gotham" alt="Streak do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bloodmoon-oga&show_icons=true&theme=gotham" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bloodmoon-oga&theme=gotham" alt="Streak do GitHub" height="150" />
 </p>
 
 ---
