@@ -7,9 +7,9 @@ Gosto muito de Programação princípalmente de baixo nível, pois sempre busco 
 
 
 <p>
-  <img src="https://img.shields.io/mastodon/follow/116270727111173160">
-  </img>
+  <a href="https://mastodon.social/@bloodmoon_sherpin">
+    <img src="https://files.mastodon.social/accounts/avatars/116/270/727/111/173/160/original/b4cf461b58e56f14.png" width="50px"></img>
+    <img src="https://img.shields.io/mastodon/follow/116270727111173160"></img>
   </a>
 </p>
-
 
