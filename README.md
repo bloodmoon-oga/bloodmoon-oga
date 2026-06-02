@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, solucionando problemas através do código e semp
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Mimm
 
 - 🔭 Atualmente estou trabalhando em: **[Nome do projeto atual ou empresa]**
 - 🌱 Aprendendo no momento: **[Tecnologia ou conceito que está estudando]**
